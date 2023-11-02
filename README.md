@@ -1,4 +1,4 @@
-<h1 align="center"><b>. WEB DEVELOPMENT BOOTCAMP</b></h1>
+<h1 align="center"><b>WEB DEVELOPMENT BOOTCAMP</b></h1>
 <div align="center"><code>Front-End Web Development</code> <code>HTML 5</code> <code>CSS 3</code> <code>Flexbox</code> <code>Grid</code> <code>Bootstrap 5</code> <code>Javascript ES6</code> <code>DOM Manipulation</code> <code>jQuery</code> <code>Bash Command Line</code> <code>Git, GitHub and Version Control</code> <code>Backend Web Development</code> <code>Node.js</code> <code>NPM</code> <code>Express.js</code> <code>EJS</code> <code>REST</code> <code>APIs</code> <code>Databases</code> <code>SQL</code> <code>PostgreSQL</code> <code>Authentication</code> <code>Firebase</code> <code>React.js</code> <code>React Hooks</code> <code>Web Design</code> <code>Deployment with GitHub Pages</code> <code>Web3 Development on the Internet Computer</code> <code>Blockchain technology</code> <code>Token contract development</code> <code>NFT minting, buying and selling logic</code></div>
 
 <!-- # Background Context -->
@@ -149,7 +149,191 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">¡Query</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Boss Level Challenge 2 - The Simon Game</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">The Unix Command Line</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Backend Web Development</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Node.js</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Express.js with Node.js</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">EJS</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Capstone Project - Todolist Application</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Git, Github and Version Control</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Application Programming Interfaces (APIs)</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Capstone Project - Use a Public API</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Build Your Own API</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Databases</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">SQL</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">PostgreSQL</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Capstone Project - Book Notes</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Authentication & Security</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">React.js</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Web3 Decentralised App (DApp) Development with the Internet Computer</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Build Your First Defi (Decentralised Finance) DApp - DBANK</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Deploying to the ICP Live Blockchain</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Building DApps on ICP with a React Frontend</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Create Your Own Crypto Token</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" ">Minting NFTs and Building an NFT Marketplace like OpenSea</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -179,193 +363,4 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-# Requirements
-<!-- Add your requirements here -->
-
-<!-- # More Info -->
 
