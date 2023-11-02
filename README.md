@@ -3,6 +3,7 @@
 
 <br>
 <br>
+<details>
 <summary><b><a href="https://appbrewery.com/p/web-development-course-resources">Web Development Course Resources List</a></b></summary><br>
 
 
