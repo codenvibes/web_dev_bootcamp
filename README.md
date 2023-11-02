@@ -5,7 +5,7 @@
 
 # Learning Objectives
 <details>
-<summary><b><a href=" "> </a>Front-End Web Development</b></summary><br>
+<summary><b><a href=" ">Front-End Web Development</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Introduction to HTML</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -21,7 +21,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Intermediate HTML</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -29,7 +29,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Multi-Page Websites</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -37,7 +37,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Introduction to CSS</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -45,7 +45,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">CSS Properties</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -53,7 +53,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Intermediate CSS</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -61,7 +61,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Advanced CSS</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -69,7 +69,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Flexbox</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -77,7 +77,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Grid</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -85,7 +85,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Bootstrap</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -93,7 +93,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Web Design School - Create a Website that People Love</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -101,7 +101,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Capstone Project 2 - Personal Site</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -109,7 +109,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Introduction to Javascript ES6</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -117,7 +117,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Intermediate Javascript</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -125,7 +125,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">The Document Object Model (DOM)</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -133,7 +133,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Boss Level Challenge 1 - The Dicee Game</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -141,7 +141,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Advanced Javascript and DOM Manipulation</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
