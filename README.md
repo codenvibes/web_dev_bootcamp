@@ -10,7 +10,7 @@
 
 - ☑️ <b><a href=" ">Front-End Web Development</a></b>
 - ☑️ <b><a href="https://github.com/codenvibes/web_dev_bootcamp/tree/master/02-Introduction_to_HTML">Introduction to HTML</a></b>
-- <b><a href=" ">Intermediate HTML</a></b>
+- ☑️ <b><a href="https://github.com/codenvibes/web_dev_bootcamp/tree/master/03-Intermediate_HTML">Intermediate HTML</a></b>
 - <b><a href=" ">Multi-Page Websites</a></b>
 - <b><a href=" ">Introduction to CSS</a></b>
 - <b><a href=" ">CSS Properties</a></b>
