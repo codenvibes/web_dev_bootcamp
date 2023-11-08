@@ -13,7 +13,7 @@
 - ☑️ <b><a href="https://github.com/codenvibes/web_dev_bootcamp/tree/master/03-Intermediate_HTML">Intermediate HTML</a></b>
 - ☑️ <b><a href="https://github.com/codenvibes/web_dev_bootcamp/tree/master/04-Multi-Page_Websites">Multi-Page Websites</a></b>
 - ☑️ <b><a href="https://github.com/codenvibes/web_dev_bootcamp/tree/master/05-Introduction_to_CSS">Introduction to CSS</a></b>
-- <b><a href=" ">CSS Properties</a></b>
+- ☑️ <b><a href="https://github.com/codenvibes/web_dev_bootcamp/tree/master/06-CSS_Properties">CSS Properties</a></b>
 - <b><a href=" ">Intermediate CSS</a></b>
 - <b><a href=" ">Advanced CSS</a></b>
 - <b><a href=" ">Flexbox</a></b>
